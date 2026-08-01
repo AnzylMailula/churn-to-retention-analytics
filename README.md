@@ -33,12 +33,7 @@ the decision brief.
 
 - [Customer Retention Decision Brief.md](./Customer%20Retention%20Decision%20Brief.md) — full findings, recommendations, financial impact
 - [Power BI and SQL Analytical Traceability.md](./Power%20BI%20and%20SQL%20Analytical%20Traceability.md) — full Power BI + DAX + SQL methodology, step by step
-- `power-bi/` — .pbix file
-- `screenshots/` — dashboard
-- `data/subscribers.csv`
-- `data/churn_labels.csv`
-- `data/support_tickets.csv`
-  
+
 ## Notes on the dashboard
 
 Every visual is sourced from SQL-validated static tables rather than a live 
