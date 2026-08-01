@@ -4,7 +4,7 @@ Diagnosed why 22.57% of subscribers churn, built a validated risk-scoring
 model to flag who's next, and sized the opportunity in dollars not just 
 charts.
 
-[Read the full Decision Brief →](./Customer%20retention%20decision%20brief.md)
+Customer Retention Decision Brief.pdf
 
 <img width="573" height="320" alt="Screenshot 2026-07-30 171001" src="https://github.com/user-attachments/assets/d8f4d382-9533-4774-912e-4741698333c8" />
 
