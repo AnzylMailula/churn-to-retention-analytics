@@ -1,10 +1,10 @@
-# Telecom Customer Retention — Decision Brief
+# Telecom Customer Retention Decision Brief
 
 Diagnosed why 22.57% of subscribers churn, built a validated risk-scoring 
 model to flag who's next, and sized the opportunity in dollars not just 
 charts.
 
-Customer Retention Decision Brief.pdf
+[Customer Retention Decision Brief.pdf](https://github.com/AnzylMailula/churn-to-retention-analytics/blob/main/Customer%20Retention%20Decision%20Brief.pdf)
 
 <img width="573" height="320" alt="Screenshot 2026-07-30 171001" src="https://github.com/user-attachments/assets/d8f4d382-9533-4774-912e-4741698333c8" />
 
